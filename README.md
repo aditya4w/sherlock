@@ -10,7 +10,7 @@ opening a browser.
 
 ## Features
 
-- Semantic query embedding (dim=128)
+- Semantic query embedding
 - MMR reranking for relevance + diversity
 - Engagement signal weighting
 - CDN-based result streaming
