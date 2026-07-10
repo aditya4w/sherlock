@@ -1,4 +1,5 @@
 # Sherlock 🔍
+(it's a prank/troll project btw)
 ### YouTube Recommendation Engine — v1.6.7
 
 A lightweight CLI tool that uses semantic embedding and MMR reranking
